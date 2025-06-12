@@ -16,4 +16,4 @@
 
 ### 📫 How to reach me:  
 - **Email**: [dhs263@cornell.edu]  
-- **LinkedIn**: [(https://www.linkedin.com/in/daniel-sorokin-6a391328b)]
+- **LinkedIn**: [https://www.linkedin.com/in/daniel-sorokin-6a391328b]
