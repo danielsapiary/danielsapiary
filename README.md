@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @danielsapiary  
 
 ### 👀 I’m interested in:  
-- Beekeeping and apiary management  
+- Beekeeping and bee ecological studies  
 - Quantitative finance and algorithmic trading  
 - Software development, especially tools that blend machine learning and practical applications  
 
